@@ -2,7 +2,7 @@
 
 Dependencies:<br />
 <br />
-Python3.4.3 - sudo apt-get install python3 <br />
+Python3.4+ - sudo apt-get install python3 <br />
 <br />
 <br />
 Introdução:<br />
